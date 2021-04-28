@@ -2,6 +2,8 @@
 
 Boilerplate to make great vue js websites with a elegant landing page and functional routing.
 
+![preview](images-for-github/preview.png)
+
 ## Project setup
 ```
 npm install
