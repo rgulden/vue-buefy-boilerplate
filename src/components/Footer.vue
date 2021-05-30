@@ -7,7 +7,7 @@
             <p>A Logo would look nice here</p>
             <p>Copyright © {{ date }} YOUR COMPANY, LLC.</p>
             <div class="buttons is-centered">
-              <b-button tag="a" href="mailto:guldentechjobs@gmail.com">
+              <b-button tag="a" href="mailto:someemail@gmail.com">
                 <b-icon pack="fas" size="is-small" icon="envelope"></b-icon>
                 <span>Email us at your@email.com</span>
               </b-button>

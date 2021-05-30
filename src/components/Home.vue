@@ -20,11 +20,11 @@
       </div>
     </section>
 
-    <section class="section is-medium">
+    <section class="section">
       <div class="container">
-        <div class="columns">
-          <div class="column">
-            <div class="box has-text-centered">
+        <div class="tile is-ancestor">
+          <div class="tile is-parent has-text-centered">
+            <article class="tile is-child box">
               <b-icon
                 pack="fas"
                 size="is-large"
@@ -39,11 +39,11 @@
                 <strong>sections</strong>, like the one you're currently
                 reading.
               </h2>
-            </div>
+            </article>
           </div>
-          <div class="column">
-            <div class="box has-text-centered">
-              <b-icon pack="fas" size="is-large" icon="code-branch"></b-icon>
+          <div class="tile is-parent has-text-centered">
+            <article class="tile is-child box">
+              <b-icon pack="fas" size="is-large" icon="medal"></b-icon>
               <h1 class="title">Excellence</h1>
               <br />
               <h2 class="subtitle">
@@ -51,11 +51,11 @@
                 <strong>sections</strong>, like the one you're currently
                 reading.
               </h2>
-            </div>
+            </article>
           </div>
-          <div class="column">
-            <div class="box has-text-centered">
-              <b-icon pack="fas" size="is-large" icon="lock"></b-icon>
+          <div class="tile is-parent has-text-centered">
+            <article class="tile is-child box">
+              <b-icon pack="fas" size="is-large" icon="handshake"></b-icon>
               <h1 class="title">Integrity</h1>
               <br />
               <h2 class="subtitle">
@@ -63,7 +63,7 @@
                 <strong>sections</strong>, like the one you're currently
                 reading.
               </h2>
-            </div>
+            </article>
           </div>
         </div>
       </div>
